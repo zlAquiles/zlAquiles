@@ -38,7 +38,7 @@ Soy un desarrollador de software enfocado en el ecosistema Java. Me apasiona esc
 
 </div>
 
-<a href="https://modrinth.com/plugin/simpleportals-"><img src="https://modfolio.creeperkatze.dev/modrinth/project/simpleportals-?maxVersions=2&showSummary=true" alt="SimplePortals-" /></a>
+<a href="https://modrinth.com/plugin/simpleportals-"><img src="https://modfolio.creeperkatze.dev/modrinth/project/simpleportals-?maxVersions=2&showSummary=true" alt="SimplePortals-" /></a> <a href="https://modrinth.com/plugin/carryme"><img src="https://modfolio.creeperkatze.dev/modrinth/project/carryme?maxVersions=2&showSummary=true" alt="CarryMe" /></a>
 
 ---
 
