@@ -38,6 +38,8 @@ Soy un desarrollador de software enfocado en el ecosistema Java. Me apasiona esc
 
 </div>
 
+<a href="https://modrinth.com/plugin/simpleportals-"><img src="https://modfolio.creeperkatze.dev/modrinth/project/simpleportals-?maxVersions=2&showSummary=true" alt="SimplePortals-" /></a>
+
 ---
 
 ### 📊 Estadísticas de GitHub
